@@ -18,7 +18,7 @@ This is the Official PHP wrapper/library for Midtrans Payment API, that is compa
 If you are using [Composer](https://getcomposer.org), you can install via composer CLI:
 
 ```
-composer require midtrans/midtrans-php
+composer require liharsw/midtrans-php
 ```
 
 **or**
